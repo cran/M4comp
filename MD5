@@ -1,0 +1,11 @@
+252a3b8ffd53f65621c698a94e4b5f23 *DESCRIPTION
+c7979c3ad676b94b49f3056b6b4de4c6 *NAMESPACE
+e68d655edfa276c8c4e6535c58ce7f07 *R/M4comp.R
+4eac406e4976b628a8b3bdc5c0992774 *R/data.R
+c0bde81e810db60f261bdfc934dae482 *R/m4functions.R
+bb0d4457a7bdac27e680f8a6f0cade77 *README.md
+7913bda0d308d650be7fb6c065841214 *data/M4.rda
+290a1976af77a6011754f48c172af4c3 *data/datalist
+8709cf524c8363b67275c382e8e1d83f *man/M4.Rd
+e4c5b9a25ae9b11ecd7b4b0012f3dd48 *man/M4comp.Rd
+686be4ca2f2d3516dd0e3d2e4eed6243 *man/plot.M4ts.Rd
